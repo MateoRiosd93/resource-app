@@ -1,0 +1,268 @@
+{
+    "data": [
+        {
+            "name": "Absurd",
+            "description": "Absurd.design se diferencia al ser un proyecto independiente de recursos gráficos, liderado por un único creador y respaldado por una pequeña pero increíble comunidad que lo apoya en cada paso.",
+            "image": "absurd.webp",
+            "link": "https://absurd.design/"
+        },
+        {
+            "name": "Animista",
+            "description": "Descubre la magia de la animación web en nuestra página! Sumérgete en el fascinante mundo de las animaciones CSS con herramientas y recursos que harán brillar tu sitio. Da vida a tu creatividad y sorprende a tus visitantes con efectos cautivadores.",
+            "image": "animista.webp",
+            "link": "https://animista.net/"
+        },
+        {
+            "name": "Bg Ibelick",
+            "description": "Los mejores backgrounds listos para usar, simplemente cópialos y pégalos en tu próximo proyecto. Todos los fragmentos están creados con Tailwind CSS y Vanilla CSS para una integración fácil.",
+            "image": "bg-ibelik.webp",
+            "link": "https://bg.ibelick.com/"
+        },
+        {
+            "name": "Fancy border radius",
+            "description": "Descubre la herramienta perfecta para darle forma y estilo a tus elementos web! Nuestra página te ofrece la magia de generar border radius de manera sencilla y visualmente impactante.",
+            "image": "border-radius.webp",
+            "link": "https://9elements.github.io/fancy-border-radius/"
+        },
+        {
+            "name": "Box Shadow",
+            "description": "¡Eleva tus diseños a nuevas alturas con nuestra página de generación de sombras! Descubre la magia de crear efectos visuales sorprendentes con nuestro generador de box shadow!",
+            "image": "box-shadow.webp",
+            "link": "https://box-shadow.dev/"
+        },
+        {
+            "name": "Park UI",
+            "description": "Componentes diseñados de manera hermosa construidos para tu elección de frameworks de JavaScript y CSS.",
+            "image": "park-ui.webp",
+            "link": "https://park-ui.com/"
+        },
+        {
+            "name": "Clip path",
+            "description": "¡Desata tu creatividad con nuestro generador de clip paths! Transforma tus elementos web con formas únicas y vanguardistas. Nuestra página te ofrece la herramienta perfecta para personalizar tus diseños con clip paths asombrosos.",
+            "image": "clip-path.webp",
+            "link": "https://bennettfeely.com"
+        },
+        {
+            "name": "Collect UI",
+            "description": "¡Sumérgete en la inspiración diaria con nuestro repertorio cuidadosamente seleccionado del desafío diario de UI y más allá! ",
+            "image": "collect-ui.webp",
+            "link": "https://collectui.com/challenges/sign-up"
+        },
+        {
+            "name": "Color Hunt",
+            "description": "Las mejores paletas de colores para diseñadores y artistas. Descubre las últimas selecciones a mano de colores en Color Hunt.",
+            "image": "color-hunt.webp",
+            "link": "https://colorhunt.co/"
+        },
+        {
+            "name": "Cool contrast",
+            "description": "Cool Contrast es la herramienta que te ayuda a crear e inspeccionar la combinación perfecta de tus colores.",
+            "image": "cool-contrast.webp",
+            "link": "https://coolcontrast.vercel.app/"
+        },
+        {
+            "name": "Coolors",
+            "description": "El generador de paletas de colores súper rápido. Crea la paleta perfecta o inspírate con miles de esquemas de colores hermosos.",
+            "image": "coolors.webp",
+            "link": "https://coolors.co/"
+        },
+        {
+            "name": "Dark design",
+            "description": "Los mejores sitios web con temática oscura seleccionados cuidadosamente en Internet.",
+            "image": "dark-design",
+            "link": "https://www.dark.design/"
+        },
+        {
+            "name": "Devdocs",
+            "description": "¡Sumérgete en el universo del desarrollo web con DevDocs, tu fuente definitiva de documentación excepcional! Explora la mejor recopilación de recursos, tutoriales y referencias, todo en un solo lugar.",
+            "image": "devdocs.webp",
+            "link": "https://devdocs.io/"
+        },
+        {
+            "name": "Don dominio",
+            "description": "Donde tu web se hace realidad, encuentra los mejores planes de hosting y correo para crear tu proyecto online sin complicaciones.",
+            "image": "dondominio.webp",
+            "link": "https://www.dondominio.com/"
+        },
+        {
+            "name": "Drawkit",
+            "description": "Tu fuente confiable para todo lo creativo: ilustraciones 2D y 3D, iconos y animaciones dibujadas a mano. Perfecto para tu próximo proyecto. Todo en un solo lugar.",
+            "image": "drawkit.webp",
+            "link": "https://www.drawkit.com/"
+        },
+        {
+            "name": "Error 404",
+            "description": "Realiza un viaje único a través de las páginas de error 404 en tu sitio web. Utiliza estas ilustraciones que describen mejor que las palabras.",
+            "image": "error404.webp",
+            "link": "https://error404.fun/"
+        },
+        {
+            "name": "Free faces",
+            "description": "Este sitio web es una colección seleccionada de tipografías que están disponibles bajo diversas licencias gratuitas en algún lugar de la red.",
+            "image": "free-faces.webp",
+            "link": "https://www.freefaces.gallery/"
+        },
+        {
+            "name": "Glassmorphism",
+            "description": "¡Bienvenido a CSS Glass, donde la magia cobra vida en cada píxel! Descubre una experiencia deslumbrante con nuestro generador de efectos glass!",
+            "image": "glass.webp",
+            "link": "https://css.glass/"
+        },
+        {
+            "name": "Google fonts",
+            "description": "Explora un mundo de posibilidades tipográficas con Google Fonts! Sumérgete en una vasta colección de fuentes elegantes y modernas para dar vida a tus proyectos.",
+            "image": "google-fonts.webp",
+            "link": "https://fonts.google.com/"
+        },
+        {
+            "name": "Grabient",
+            "description": "¡Explora el arte de los gradientes en cada rincón de Grabient! Sumérgete en nuestra extensa galería de fondos con gradientes que cautivan la mirada.",
+            "image": "grabient.webp",
+            "link": "https://www.grabient.com/"
+        },
+        {
+            "name": "Hero icons",
+            "description": "Iconos SVG bellamente diseñados, creados por los desarrolladores de Tailwind CSS.",
+            "image": "heroicons.webp",
+            "link": "https://heroicons.com/"
+        },
+        {
+            "name": "Icons8",
+            "description": "Gráficos curados, aplicaciones de diseño y herramientas de IA. El kit de diseño definitivo para creativos y desarrolladores",
+            "image": "icons8.webp",
+            "link": "https://iconos8.es/"
+        },
+        {
+            "name": "Illustrations",
+            "description": "Descubre una paleta vibrante de ilustraciones en nuestra página, donde la imaginación cobra vida. Desde encantadoras escenas hasta personajes únicos, nuestro generador te sumergirá en un mundo visualmente cautivador.",
+            "image": "illustrations.webp",
+            "link": "https://illlustrations.co/"
+        },
+        {
+            "name": "Ira design",
+            "description": "Construye tus propias ilustraciones sorprendentes, utilizando nuestras increíbles gradaciones y componentes dibujados a mano.",
+            "image": "ira-design.webp",
+            "link": "https://iradesign.io/"
+        },
+        {
+            "name": "React Keep",
+            "description": "Potencia al máximo tu desarrollo web con Keep React, desbloqueando el poder del código para transformar tus ideas en sorprendentes realidades web.",
+            "image": "keep.webp",
+            "link": "https://react.keepdesign.io"
+        },
+        {
+            "name": "Loaders",
+            "description": "Cargadores y giros gratuitos de código abierto para tu próximo proyecto. Construidos con HTML, CSS y SVG, y potenciados por componentes web.",
+            "image": "loaders.webp",
+            "link": "https://uiball.com/ldrs/"
+        },
+        {
+            "name": "Neumorphism",
+            "description": "El mejor generador de código CSS para una nueva tendencia de diseño popular llamada Neumorphism/Soft UI.",
+            "image": "newumorphism.webp",
+            "link": "https://neumorphism.io/"
+        },
+        {
+            "name": "Open doodles",
+            "description": "",
+            "image": "open-doodles.webp",
+            "link": "https://www.opendoodles.com/"
+        },
+        {
+            "name": "Opens peeps",
+            "description": "Bienvenido a Open Doodles, tu fuente de creatividad ilimitada! Explora una colección encantadora de ilustraciones generadas para dar vida a tus proyectos.",
+            "image": "open-peeps.webp",
+            "link": "https://www.openpeeps.com/"
+        },
+        {
+            "name": "Patterns",
+            "description": "Patterns.dev es un recurso en línea gratuito sobre patrones de diseño, renderizado y rendimiento para construir potentes aplicaciones web con JavaScript puro o frameworks modernos.",
+            "image": "patterns.webp",
+            "link": "https://www.patterns.dev/"
+        },
+        {
+            "name": "Patterns monster",
+            "description": "Un generador simple de patrones en línea para crear patrones SVG. Acelere su sitio web sin comprometer la calidad de imagen. Perfecto para fondos de sitios web, ropa, marcas, diseño de embalaje y mucho más.",
+            "image": "patterns-monster.webp",
+            "link": "https://es.pattern.monster/"
+        },
+        {
+            "name": "Pexels",
+            "description": "Las mejores fotos de stock gratis, imágenes libres de regalías y vídeos compartidos por creadores.",
+            "image": "pexels.webp",
+            "link": "https://www.pexels.com/es-es/"
+        },
+        {
+            "name": "Pixabay",
+            "description": "Increíbles Imágenes Gratis Para Descargar, nuestro banco de imágenes tiene más de 1 millón de imágenes y videos compartidos por nuestra talentosa comunidad.",
+            "image": "pixabay.webp",
+            "link": "https://pixabay.com/es/"
+        },
+        {
+            "name": "React Skeleton",
+            "description": "Herramienta para crear fácilmente tus componentes de esqueleto animados, sustituyendo las cargas habituales y ofreciendo mejores experiencias para los usuarios, proporcionando un marco de alambre de tus páginas con cajas de marcadores para contenido e imágenes.",
+            "image": "react-skeleton.webp",
+            "link": "https://skeletonreact.com/"
+        },
+        {
+            "name": "Regex Vis",
+            "description": "Bienvenido a Regex Vis, tu herramienta visual para la creación de expresiones regulares! Descubre la facilidad de construir patrones regex de manera intuitiva y visual.",
+            "image": "regex.webp",
+            "link": "https://regex-vis.com/"
+        },
+        {
+            "name": "Resend",
+            "description": "La mejor manera de llegar a los seres humanos en lugar de las carpetas de spam. Envía correos electrónicos transaccionales y de marketing a gran escala.",
+            "image": "resend.webp",
+            "link": "https://resend.com"
+        },
+        {
+            "name": "Shots",
+            "description": "Bienvenido a Shots, tu taller de creación de mockups creativos para imágenes! Transforma tus ideas visuales en proyectos impactantes con nuestra herramienta especializada.",
+            "image": "shots.webp",
+            "link": "https://shots.so/"
+        },
+        {
+            "name": "Squoosh",
+            "description": "Bienvenido a Squoosh, tu aliado en la optimización de imágenes! Esta página revolucionaria te ofrece la herramienta perfecta para reducir el tamaño de tus imágenes sin comprometer la calidad.",
+            "image": "squoosh.webp",
+            "link": "https://squoosh.app/"
+        },
+        {
+            "name": "Svgl",
+            "description": "Bienvenido a SGVL, tu fuente confiable de iconos SVG de alta calidad. Explora nuestra extensa biblioteca de íconos vectoriales diseñados con precisión para satisfacer todas tus necesidades creativas.",
+            "image": "svgl.webp",
+            "link": "https://svgl.vercel.app/"
+        },
+        {
+            "name": "Sgv repo",
+            "description": "Busca, explora y edita los iconos o vectores gratuitos más adecuados para tus proyectos utilizando una amplia variedad de biblioteca de vectores. Descarga vectores y iconos SVG gratuitos para uso comercial.",
+            "image": "sgv-repo.webp",
+            "link": "https://www.svgrepo.com/"
+        },
+        {
+            "name": "Tabler icons",
+            "description": "Iconos gratuitos y de código abierto diseñados para hacer que tu sitio web o aplicación sean atractivos, visualmente consistentes y simplemente hermosos.",
+            "image": "tabler-icons.webp",
+            "link": "https://tabler.io/icons"
+        },
+        {
+            "name": "UI Gradients",
+            "description": "Bienvenido a UI Gradients, tu destino para descubrir y aplicar sorprendentes gradientes a los fondos de tus proyectos.",
+            "image": "ui-gradients.webp",
+            "link": "https://uigradients.com/#Selenium"
+        },
+        {
+            "name": "unDraw",
+            "description": "Explora para encontrar las imágenes que se ajusten a tus necesidades y haz clic para descargar. Utiliza la generación de imágenes de color sobre la marcha para que coincida con la identidad de tu marca.",
+            "image": "undraw.webp",
+            "link": "https://undraw.co/illustrations"
+        },
+        {
+            "name": "Wecked Backgrounds",
+            "description": "Bienvenido a Wecked, tu plataforma especializada en la creación de efectos de ondas cautivadores para potenciar tus páginas web. Descubre la magia de las ondas visuales y añade un toque dinámico y atractivo a tu diseño web.",
+            "image": "wecked-bg.webp",
+            "link": "https://wickedbackgrounds.com/app"
+        }
+    ]
+}
