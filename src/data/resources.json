@@ -69,7 +69,7 @@
         {
             "name": "Dark design",
             "description": "Los mejores sitios web con temática oscura seleccionados cuidadosamente en Internet.",
-            "image": "dark-design",
+            "image": "dark-design.webp",
             "link": "https://www.dark.design/"
         },
         {
@@ -135,7 +135,7 @@
         {
             "name": "Illustrations",
             "description": "Descubre una paleta vibrante de ilustraciones en nuestra página, donde la imaginación cobra vida. Desde encantadoras escenas hasta personajes únicos, nuestro generador te sumergirá en un mundo visualmente cautivador.",
-            "image": "illustrations.webp",
+            "image": "illustrations-svg.webp",
             "link": "https://illlustrations.co/"
         },
         {
@@ -159,7 +159,7 @@
         {
             "name": "Neumorphism",
             "description": "El mejor generador de código CSS para una nueva tendencia de diseño popular llamada Neumorphism/Soft UI.",
-            "image": "newumorphism.webp",
+            "image": "neumorphism.webp",
             "link": "https://neumorphism.io/"
         },
         {
@@ -237,7 +237,7 @@
         {
             "name": "Sgv repo",
             "description": "Busca, explora y edita los iconos o vectores gratuitos más adecuados para tus proyectos utilizando una amplia variedad de biblioteca de vectores. Descarga vectores y iconos SVG gratuitos para uso comercial.",
-            "image": "sgv-repo.webp",
+            "image": "svg-repo.webp",
             "link": "https://www.svgrepo.com/"
         },
         {
