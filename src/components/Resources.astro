@@ -1,23 +1,15 @@
 ---
 import recursos from "../data/resources.json";
+import Resource from "./Resource.astro";
 ---
 
 <section>
     <h1 class="text-2xl text-center font-semibold mb-6">Recursos 🚀</h1>
     <ul class="w-full flex flex-wrap gap-4 justify-center">
-        <!-- TODO: Organizar tema del link buscar icono para link, ademas organizar tags para mapear en la card, extraer la card en un componente a parte -->
-        {
-            recursos.data.map((resource) => (
-                <article class="flex flex-col gap-2 py-4 px-4 border bg-purple-400/5 border-white/10 rounded-sm shadow w-96 hover:border-white/30 transition">
-                    <img
-                        class="object-cover"
-                        src={`/images/${resource.image}`}
-                        alt={`Imagen de ${resource.name}`}
-                    />
-                    <h1 class="font-medium">{resource.name}</h1>
-                    <p class="font-extralight text-white/80 text-pretty">{resource.description}</p>
-                </article>
-            ))
-        }
+        <!-- TODO: Organizar tags para mapear en la card -->
+        <!-- TODO: organizar titulo de recursos -->
+        <!-- TODO: crear un footer sencillo -->
+        <!-- TODO: colocar todo en ingles -->
+        {recursos.data.map((resource) => <Resource {...resource} />)}
     </ul>
 </section>
