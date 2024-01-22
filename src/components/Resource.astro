@@ -1,29 +1,41 @@
 ---
-import LinkResource from './icons/LinkResource.astro';
+import LinkResource from "./icons/LinkResource.astro";
 
 interface Props {
     name: string;
     description: string;
     image: string;
     link: string;
+    tags: string[];
 }
 
-const { image, name, description, link } = Astro.props;
+const { image, name, description, link, tags } = Astro.props;
 ---
 
 <article
-    class="flex flex-col gap-2 py-4 px-4 border bg-purple-400/5 border-white/10 rounded-sm shadow w-96 hover:border-white/30 transition"
+    class="flex flex-col gap-4 justify-between py-4 px-4 border bg-purple-400/5 border-white/10 rounded-sm shadow w-96 hover:border-white/30 transition"
 >
-    <img
-        class="object-cover"
-        src={`/images/${image}`}
-        alt={`Imagen de ${name}`}
-    />
-    <div class="flex gap-2">
-        <h1 class="font-medium">{name}</h1>
-        <a href={link}>
-            <LinkResource/>
-        </a>
-    </div>
-    <p class="font-extralight text-white/80 text-pretty">{description}</p>
+    <section class="flex flex-col gap-2">
+        <img
+            class="object-cover"
+            src={`/images/${image}`}
+            alt={`Imagen de ${name}`}
+        />
+        <div class="flex gap-2">
+            <h1 class="font-medium">{name}</h1>
+            <a href={link} target="_blank" rel="noopener noreferrer">
+                <LinkResource />
+            </a>
+        </div>
+        <p class="font-extralight text-white/80 text-pretty">{description}</p>
+    </section>
+    <ul class="flex gap-2">
+        {
+            tags.map((tag) => (
+                <span class="bg-purple-500/10 text-sm font-light py-1 px-3 rounded-xl">
+                    {tag}
+                </span>
+            ))
+        }
+    </ul>
 </article>
