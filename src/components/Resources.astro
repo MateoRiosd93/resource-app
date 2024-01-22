@@ -6,10 +6,6 @@ import Resource from "./Resource.astro";
 <section>
     <h1 class="text-2xl text-center font-semibold mb-6">Recursos 🚀</h1>
     <ul class="w-full flex flex-wrap gap-4 justify-center">
-        <!-- TODO: Organizar tags para mapear en la card -->
-        <!-- TODO: organizar titulo de recursos -->
-        <!-- TODO: crear un footer sencillo -->
-        <!-- TODO: colocar todo en ingles -->
         {recursos.data.map((resource) => <Resource {...resource} />)}
     </ul>
 </section>
